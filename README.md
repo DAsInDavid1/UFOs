@@ -26,8 +26,8 @@ This webpage could be more optimized for user experience. The user must manualy 
 | ------------- | ------------- 
 | <img src= "https://github.com/DAsInDavid1/UFOs/blob/main/static/images/triangle_filter.png" width=100% height=100%>   | <img src= "https://github.com/DAsInDavid1/UFOs/blob/main/static/images/triangl_filter.png" width=100% height=100%>   
 
-The biggest drawback is currently the ability for the user to misspell,wrong capilization, or type in the incorrect way will bring no results for the filter.
+The biggest drawback is currently the ability for the user to misspell,wrong capilization, or typing incorrectly  will bring no results for the filter.
 
-I would recomened that a drop down menu be implemented for the filters so so that when someone types in something a recomened filter from the drop down must be clicked so that the filter works. Another recomendation to solve this issue would be to implement a "error" code where when someone types in a filter that doesnt show data a error message pops up telling them to either corret their filter or try something else.
+I would recomened that a drop down menu be implemented for the filters so that when someone types in something, a recomened filter from the drop down must be clicked so that the filter works. Another recomendation to solve this issue would be to implement a "error" code where when someone types in a filter that doesnt show data a error message pops up telling them to either correct their filter or try something else.
 
 Another rocomendation would be to allow the user to extract the data from the website in a JSON format so that once they filter the data how they want, it can give them a file of usable data for them to analyse deeper if the user wished to.
